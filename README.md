@@ -51,3 +51,7 @@ Step3: Configure AWS Credentials
 6. terraform fmt
 7. terraform refresh
 8. terraform version
+
+**Imp Note :**
+
+**DB Credentials** according to me terraform.tfvars, please according to your wish.
