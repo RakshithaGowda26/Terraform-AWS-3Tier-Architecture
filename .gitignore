@@ -1,0 +1,6 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform working directory (managed by Terraform)
+.terraform/
